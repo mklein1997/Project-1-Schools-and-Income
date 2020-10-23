@@ -1,0 +1,78 @@
+"CAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
+"Per capita personal income (Dollars) 2/" 
+"Bureau of Economic Analysis" 
+"County"
+"GeoFips","GeoName","2016","2017","2018"
+"12000","Florida",45684,47869,50070
+"12001","Alachua, FL",40608,42455,44390
+"12003","Baker, FL",29613,31076,32313
+"12005","Bay, FL",41019,41499,43231
+"12007","Bradford, FL",31464,32876,33557
+"12009","Brevard, FL",41793,43371,45425
+"12011","Broward, FL",46394,47977,50269
+"12013","Calhoun, FL",25059,25901,26873
+"12015","Charlotte, FL",39292,39868,41564
+"12017","Citrus, FL",35856,36614,37920
+"12019","Clay, FL",40743,41374,42909
+"12021","Collier, FL",83659,87092,92686
+"12023","Columbia, FL",32408,33658,35074
+"12027","DeSoto, FL",23274,23869,23610
+"12029","Dixie, FL",25421,26862,27956
+"12031","Duval, FL",42326,44458,46174
+"12033","Escambia, FL",39521,40825,42537
+"12035","Flagler, FL",42114,44092,46220
+"12037","Franklin, FL",32661,33999,35988
+"12039","Gadsden, FL",32160,33483,35139
+"12041","Gilchrist, FL",31259,33217,33774
+"12043","Glades, FL",22152,23510,24467
+"12045","Gulf, FL",32157,33871,35701
+"12047","Hamilton, FL",23831,25063,26016
+"12049","Hardee, FL",26913,28844,28285
+"12051","Hendry, FL",29746,30693,31071
+"12053","Hernando, FL",34899,35601,36878
+"12055","Highlands, FL",32174,32922,33453
+"12057","Hillsborough, FL",43617,45129,47000
+"12059","Holmes, FL",28049,29598,30468
+"12061","Indian River, FL",69832,72149,76059
+"12063","Jackson, FL",29607,30763,32106
+"12065","Jefferson, FL",38742,39715,40736
+"12067","Lafayette, FL",22596,24232,24148
+"12069","Lake, FL",39385,40613,42190
+"12071","Lee, FL",47574,48872,51266
+"12073","Leon, FL",41273,42380,44482
+"12075","Levy, FL",32833,34477,35204
+"12077","Liberty, FL",22151,23087,23582
+"12079","Madison, FL",29330,30499,31675
+"12081","Manatee, FL",44361,45404,47378
+"12083","Marion, FL",34506,35719,36997
+"12085","Martin, FL",74666,79020,83873
+"12086","Miami-Dade, FL",43920,47813,50022
+"12087","Monroe, FL",78241,84679,92119
+"12089","Nassau, FL",53450,55738,57877
+"12091","Okaloosa, FL",45470,47111,48875
+"12093","Okeechobee, FL",29138,30568,30661
+"12095","Orange, FL",40750,42776,44647
+"12097","Osceola, FL",31280,32315,33346
+"12099","Palm Beach, FL",70241,75183,79760
+"12101","Pasco, FL",38019,38917,40313
+"12103","Pinellas, FL",48707,50917,53455
+"12105","Polk, FL",33333,34591,35463
+"12107","Putnam, FL",29831,30823,31773
+"12109","St. Johns, FL",61829,65660,68149
+"12111","St. Lucie, FL",37426,37958,39374
+"12113","Santa Rosa, FL",41771,42972,44527
+"12115","Sarasota, FL",58513,61378,64868
+"12117","Seminole, FL",44301,46782,49049
+"12119","Sumter, FL",42126,44097,46100
+"12121","Suwannee, FL",30649,31943,33068
+"12123","Taylor, FL",27618,28878,30346
+"12125","Union, FL",19815,20756,22227
+"12127","Volusia, FL",39151,40566,42374
+"12129","Wakulla, FL",33511,35087,37026
+"12131","Walton, FL",55051,57822,59728
+"12133","Washington, FL",27636,28309,29414
+"Legend / Footnotes:"
+"2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2018 reflect county population estimates available as of March 2019."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
+"Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"Last updated: November 14, 2019-- new statistics for 2018; revised statistics for 1969-2017."

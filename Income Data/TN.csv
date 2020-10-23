@@ -1,0 +1,105 @@
+"CAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
+"Per capita personal income (Dollars) 2/" 
+"Bureau of Economic Analysis" 
+"County"
+"GeoFips","GeoName","2016","2017","2018"
+"47001","Anderson, TN",39659,40106,41853
+"47003","Bedford, TN",35087,35799,37266
+"47005","Benton, TN",31567,32715,33661
+"47007","Bledsoe, TN",24290,25154,26281
+"47009","Blount, TN",39912,41190,42991
+"47011","Bradley, TN",37423,37766,39099
+"47013","Campbell, TN",31847,32569,33967
+"47015","Cannon, TN",34023,34664,36113
+"47017","Carroll, TN",34125,34777,35900
+"47019","Carter, TN",32095,33088,34579
+"47021","Cheatham, TN",40779,41769,43932
+"47023","Chester, TN",31868,32532,33642
+"47025","Claiborne, TN",33140,33910,35384
+"47027","Clay, TN",28819,30471,31013
+"47029","Cocke, TN",30282,30637,31942
+"47031","Coffee, TN",36771,37323,38656
+"47033","Crockett, TN",34677,34675,36560
+"47035","Cumberland, TN",34810,35518,36613
+"47037","Davidson, TN",59135,62876,66060
+"47039","Decatur, TN",41029,40812,42639
+"47041","DeKalb, TN",37704,38125,40132
+"47043","Dickson, TN",37579,38766,40556
+"47045","Dyer, TN",37851,38310,40642
+"47047","Fayette, TN",51961,52993,55364
+"47049","Fentress, TN",30366,31029,32232
+"47051","Franklin, TN",36021,37289,38880
+"47053","Gibson, TN",36422,37414,38654
+"47055","Giles, TN",36794,37842,38766
+"47057","Grainger, TN",30848,31892,33490
+"47059","Greene, TN",37665,38618,39971
+"47061","Grundy, TN",29391,29839,31011
+"47063","Hamblen, TN",35089,35134,36636
+"47065","Hamilton, TN",48244,49813,51743
+"47067","Hancock, TN",25563,25777,27042
+"47069","Hardeman, TN",27863,28288,29430
+"47071","Hardin, TN",36679,37778,39387
+"47073","Hawkins, TN",32181,32806,34188
+"47075","Haywood, TN",30605,30348,32023
+"47077","Henderson, TN",33321,34542,35748
+"47079","Henry, TN",39405,40561,41989
+"47081","Hickman, TN",30049,31401,32780
+"47083","Houston, TN",30813,32184,32822
+"47085","Humphreys, TN",36774,38135,38665
+"47087","Jackson, TN",29190,29939,31189
+"47089","Jefferson, TN",33160,34289,35866
+"47091","Johnson, TN",30327,31510,32249
+"47093","Knox, TN",46360,47574,49738
+"47095","Lake, TN",22300,22576,23230
+"47097","Lauderdale, TN",28313,27910,29187
+"47099","Lawrence, TN",32504,33873,35252
+"47101","Lewis, TN",32167,32996,34432
+"47103","Lincoln, TN",38803,39511,41388
+"47105","Loudon, TN",44707,46340,48491
+"47107","McMinn, TN",33722,34645,35897
+"47109","McNairy, TN",31044,31310,32573
+"47111","Macon, TN",31629,32787,33297
+"47113","Madison, TN",39965,40781,42720
+"47115","Marion, TN",35950,36950,38450
+"47117","Marshall, TN",35587,36075,37550
+"47119","Maury, TN",39918,40901,42696
+"47121","Meigs, TN",31637,32771,33526
+"47123","Monroe, TN",31572,31971,33338
+"47125","Montgomery, TN",39791,40461,41031
+"47127","Moore, TN",38696,39731,41276
+"47129","Morgan, TN",27538,28339,29380
+"47131","Obion, TN",37747,39042,40666
+"47133","Overton, TN",31101,32381,33701
+"47135","Perry, TN",32410,33301,34268
+"47137","Pickett, TN",36616,38598,39686
+"47139","Polk, TN",31954,32647,33772
+"47141","Putnam, TN",37338,38079,39509
+"47143","Rhea, TN",32753,32842,34147
+"47145","Roane, TN",38229,39241,40980
+"47147","Robertson, TN",38995,40211,42104
+"47149","Rutherford, TN",38634,39262,41031
+"47151","Scott, TN",27627,28106,29758
+"47153","Sequatchie, TN",35317,36474,38003
+"47155","Sevier, TN",36909,37910,39474
+"47157","Shelby, TN",46015,47338,49465
+"47159","Smith, TN",35104,36263,37742
+"47161","Stewart, TN",38751,39111,39853
+"47163","Sullivan, TN",39870,40810,42606
+"47165","Sumner, TN",45083,46465,48656
+"47167","Tipton, TN",36399,37085,38547
+"47169","Trousdale, TN",29789,28849,30090
+"47171","Unicoi, TN",35358,35836,37423
+"47173","Union, TN",29862,30516,31693
+"47175","Van Buren, TN",30102,30207,30770
+"47177","Warren, TN",32823,33253,33970
+"47179","Washington, TN",40412,41539,43299
+"47181","Wayne, TN",26167,27448,28962
+"47183","Weakley, TN",34868,36146,37316
+"47185","White, TN",31151,31628,32477
+"47187","Williamson, TN",92654,91001,94872
+"47189","Wilson, TN",45494,46989,49092
+"Legend / Footnotes:"
+"2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2018 reflect county population estimates available as of March 2019."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
+"Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"Last updated: November 14, 2019-- new statistics for 2018; revised statistics for 1969-2017."

@@ -1,0 +1,92 @@
+"CAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
+"Per capita personal income (Dollars) 2/" 
+"Bureau of Economic Analysis" 
+"County"
+"GeoFips","GeoName","2016","2017","2018"
+"28001","Adams, MS",32098,32428,33880
+"28003","Alcorn, MS",33076,34364,36003
+"28005","Amite, MS",30465,32432,33460
+"28007","Attala, MS",32156,32603,33809
+"28009","Benton, MS",28097,29198,30285
+"28011","Bolivar, MS",35451,36104,38213
+"28013","Calhoun, MS",31045,32079,33043
+"28015","Carroll, MS",34877,36056,37615
+"28017","Chickasaw, MS",31620,33663,34805
+"28019","Choctaw, MS",31526,31949,33646
+"28021","Claiborne, MS",29275,30364,31494
+"28023","Clarke, MS",34660,35268,36431
+"28025","Clay, MS",35872,37625,39191
+"28027","Coahoma, MS",33335,32818,33915
+"28029","Copiah, MS",31247,32250,33203
+"28031","Covington, MS",31064,34699,35748
+"28033","DeSoto, MS",38168,39022,40702
+"28035","Forrest, MS",36793,37202,38880
+"28037","Franklin, MS",33037,33236,33970
+"28039","George, MS",31432,31697,32529
+"28041","Greene, MS",27960,27973,28716
+"28043","Grenada, MS",33859,34458,35632
+"28045","Hancock, MS",33577,33998,35262
+"28047","Harrison, MS",35877,36087,37303
+"28049","Hinds, MS",37817,37633,39311
+"28051","Holmes, MS",27619,27367,28371
+"28053","Humphreys, MS",28869,29932,31864
+"28055","Issaquena, MS",18428,10996,18541
+"28057","Itawamba, MS",32441,33582,34734
+"28059","Jackson, MS",35715,36297,37499
+"28061","Jasper, MS",33417,36001,37281
+"28063","Jefferson, MS",30998,31910,33098
+"28065","Jefferson Davis, MS",27618,29568,30097
+"28067","Jones, MS",35687,36933,38122
+"28069","Kemper, MS",28470,28571,29287
+"28071","Lafayette, MS",39338,40377,42110
+"28073","Lamar, MS",38065,38885,40529
+"28075","Lauderdale, MS",36593,36534,37959
+"28077","Lawrence, MS",30830,33170,34616
+"28079","Leake, MS",27422,30286,31436
+"28081","Lee, MS",38811,40345,41934
+"28083","Leflore, MS",33601,34769,36399
+"28085","Lincoln, MS",36208,37484,38682
+"28087","Lowndes, MS",35885,36657,38498
+"28089","Madison, MS",60238,61566,64033
+"28091","Marion, MS",29710,32880,34526
+"28093","Marshall, MS",30405,31072,32341
+"28095","Monroe, MS",32293,33180,34664
+"28097","Montgomery, MS",32095,32883,34180
+"28099","Neshoba, MS",33388,35409,36604
+"28101","Newton, MS",32319,33778,34645
+"28103","Noxubee, MS",30451,31581,32805
+"28105","Oktibbeha, MS",32257,32748,34367
+"28107","Panola, MS",31052,31684,32496
+"28109","Pearl River, MS",34446,34803,36230
+"28111","Perry, MS",29976,30674,31934
+"28113","Pike, MS",29716,29966,31048
+"28115","Pontotoc, MS",31118,31956,32996
+"28117","Prentiss, MS",29116,29794,30743
+"28119","Quitman, MS",26856,25162,27088
+"28121","Rankin, MS",42738,43135,44661
+"28123","Scott, MS",28569,30866,32095
+"28125","Sharkey, MS",28708,30238,32070
+"28127","Simpson, MS",33533,35865,37036
+"28129","Smith, MS",31276,34495,35791
+"28131","Stone, MS",30429,30560,31516
+"28133","Sunflower, MS",28422,28926,30859
+"28135","Tallahatchie, MS",27223,27157,27757
+"28137","Tate, MS",33575,33572,35182
+"28139","Tippah, MS",31530,32614,33919
+"28141","Tishomingo, MS",31468,31711,33559
+"28143","Tunica, MS",33576,31035,32425
+"28145","Union, MS",30762,31432,32242
+"28147","Walthall, MS",29402,31271,31757
+"28149","Warren, MS",37437,37983,39580
+"28151","Washington, MS",34904,35916,37568
+"28153","Wayne, MS",30940,33261,34775
+"28155","Webster, MS",36421,36973,38464
+"28157","Wilkinson, MS",27539,28516,29413
+"28159","Winston, MS",32377,34214,35742
+"28161","Yalobusha, MS",34366,35020,36729
+"28163","Yazoo, MS",26840,26303,27275
+"Legend / Footnotes:"
+"2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2018 reflect county population estimates available as of March 2019."
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
+"Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"Last updated: November 14, 2019-- new statistics for 2018; revised statistics for 1969-2017."
