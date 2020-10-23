@@ -1,77 +1,68 @@
-"CAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
-"Per capita personal income (Dollars) 2/" 
-"Bureau of Economic Analysis" 
-"County"
-"GeoFips","GeoName","2016","2017","2018"
-"01001","Autauga, AL",39561,40450,41618
-"01003","Baldwin, AL",42907,43989,45596
-"01005","Barbour, AL",31595,33048,35199
-"01007","Bibb, AL",28799,29081,30254
-"01009","Blount, AL",32389,33533,34976
-"01011","Bullock, AL",26655,27442,28797
-"01013","Butler, AL",33501,34733,36450
-"01015","Calhoun, AL",34774,35721,37120
-"01017","Chambers, AL",32470,32583,33859
-"01019","Cherokee, AL",32826,33852,35505
-"01021","Chilton, AL",32204,33416,34798
-"01023","Choctaw, AL",35676,36603,39280
-"01025","Clarke, AL",34436,34777,36361
-"01027","Clay, AL",31149,32017,33530
-"01029","Cleburne, AL",33708,34862,36159
-"01031","Coffee, AL",40386,41268,43094
-"01033","Colbert, AL",36289,37073,38378
-"01035","Conecuh, AL",30308,31267,32656
-"01037","Coosa, AL",29174,29926,31328
-"01039","Covington, AL",33014,34393,35651
-"01041","Crenshaw, AL",34405,35823,36645
-"01043","Cullman, AL",36649,38158,39607
-"01045","Dale, AL",34492,35200,36613
-"01047","Dallas, AL",33454,34282,36026
-"01049","DeKalb, AL",29446,30682,31916
-"01051","Elmore, AL",39587,40966,42269
-"01053","Escambia, AL",30404,31641,32996
-"01055","Etowah, AL",34792,35542,36918
-"01057","Fayette, AL",32533,33492,34966
-"01059","Franklin, AL",30940,32422,34318
-"01061","Geneva, AL",32619,33736,35192
-"01063","Greene, AL",30737,31388,32359
-"01065","Hale, AL",34900,35559,36585
-"01067","Henry, AL",37657,38790,40360
-"01069","Houston, AL",39459,40642,42398
-"01071","Jackson, AL",34198,35099,36567
-"01073","Jefferson, AL",49573,52128,54730
-"01075","Lamar, AL",31863,32230,33496
-"01077","Lauderdale, AL",35202,35573,37151
-"01079","Lawrence, AL",31129,32596,34125
-"01081","Lee, AL",35690,36437,38036
-"01083","Limestone, AL",39102,40845,42546
-"01085","Lowndes, AL",37050,39011,38991
-"01087","Macon, AL",30568,31372,32919
-"01089","Madison, AL",48026,49158,51445
-"01091","Marengo, AL",36650,37447,39801
-"01093","Marion, AL",30458,31807,33264
-"01095","Marshall, AL",33700,34579,36044
-"01097","Mobile, AL",36025,36777,38243
-"01099","Monroe, AL",31259,31720,33456
-"01101","Montgomery, AL",41388,42211,43688
-"01103","Morgan, AL",37173,38289,39991
-"01105","Perry, AL",29030,30173,30535
-"01107","Pickens, AL",30412,31233,32551
-"01109","Pike, AL",34842,36140,37359
-"01111","Randolph, AL",30268,31242,32411
-"01113","Russell, AL",30700,32384,33104
-"01115","St. Clair, AL",35766,36993,38569
-"01117","Shelby, AL",50650,51852,54369
-"01119","Sumter, AL",30848,31452,31664
-"01121","Talladega, AL",32487,33282,34718
-"01123","Tallapoosa, AL",38205,38829,40696
-"01125","Tuscaloosa, AL",36143,37157,38822
-"01127","Walker, AL",37030,38482,40197
-"01129","Washington, AL",34371,34882,36323
-"01131","Wilcox, AL",30247,30929,32215
-"01133","Winston, AL",31995,33679,35430
-"Legend / Footnotes:"
-"2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2018 reflect county population estimates available as of March 2019."
-"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
-"Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
-"Last updated: November 14, 2019-- new statistics for 2018; revised statistics for 1969-2017."
+County,2016,2017,2018
+"Autauga, AL",39561,40450,41618
+"Baldwin, AL",42907,43989,45596
+"Barbour, AL",31595,33048,35199
+"Bibb, AL",28799,29081,30254
+"Blount, AL",32389,33533,34976
+"Bullock, AL",26655,27442,28797
+"Butler, AL",33501,34733,36450
+"Calhoun, AL",34774,35721,37120
+"Chambers, AL",32470,32583,33859
+"Cherokee, AL",32826,33852,35505
+"Chilton, AL",32204,33416,34798
+"Choctaw, AL",35676,36603,39280
+"Clarke, AL",34436,34777,36361
+"Clay, AL",31149,32017,33530
+"Cleburne, AL",33708,34862,36159
+"Coffee, AL",40386,41268,43094
+"Colbert, AL",36289,37073,38378
+"Conecuh, AL",30308,31267,32656
+"Coosa, AL",29174,29926,31328
+"Covington, AL",33014,34393,35651
+"Crenshaw, AL",34405,35823,36645
+"Cullman, AL",36649,38158,39607
+"Dale, AL",34492,35200,36613
+"Dallas, AL",33454,34282,36026
+"DeKalb, AL",29446,30682,31916
+"Elmore, AL",39587,40966,42269
+"Escambia, AL",30404,31641,32996
+"Etowah, AL",34792,35542,36918
+"Fayette, AL",32533,33492,34966
+"Franklin, AL",30940,32422,34318
+"Geneva, AL",32619,33736,35192
+"Greene, AL",30737,31388,32359
+"Hale, AL",34900,35559,36585
+"Henry, AL",37657,38790,40360
+"Houston, AL",39459,40642,42398
+"Jackson, AL",34198,35099,36567
+"Jefferson, AL",49573,52128,54730
+"Lamar, AL",31863,32230,33496
+"Lauderdale, AL",35202,35573,37151
+"Lawrence, AL",31129,32596,34125
+"Lee, AL",35690,36437,38036
+"Limestone, AL",39102,40845,42546
+"Lowndes, AL",37050,39011,38991
+"Macon, AL",30568,31372,32919
+"Madison, AL",48026,49158,51445
+"Marengo, AL",36650,37447,39801
+"Marion, AL",30458,31807,33264
+"Marshall, AL",33700,34579,36044
+"Mobile, AL",36025,36777,38243
+"Monroe, AL",31259,31720,33456
+"Montgomery, AL",41388,42211,43688
+"Morgan, AL",37173,38289,39991
+"Perry, AL",29030,30173,30535
+"Pickens, AL",30412,31233,32551
+"Pike, AL",34842,36140,37359
+"Randolph, AL",30268,31242,32411
+"Russell, AL",30700,32384,33104
+"St. Clair, AL",35766,36993,38569
+"Shelby, AL",50650,51852,54369
+"Sumter, AL",30848,31452,31664
+"Talladega, AL",32487,33282,34718
+"Tallapoosa, AL",38205,38829,40696
+"Tuscaloosa, AL",36143,37157,38822
+"Walker, AL",37030,38482,40197
+"Washington, AL",34371,34882,36323
+"Wilcox, AL",30247,30929,32215
+"Winston, AL",31995,33679,35430

@@ -1,74 +1,65 @@
-"CAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
-"Per capita personal income (Dollars) 2/" 
-"Bureau of Economic Analysis" 
-"County"
-"GeoFips","GeoName","2016","2017","2018"
-"22001","Acadia, LA",34236,35481,37304
-"22003","Allen, LA",30513,31754,33381
-"22005","Ascension, LA",46685,47798,49829
-"22007","Assumption, LA",40358,43897,46788
-"22009","Avoyelles, LA",35099,36529,37911
-"22011","Beauregard, LA",39451,41126,42782
-"22013","Bienville, LA",33422,35759,38493
-"22015","Bossier, LA",41722,41876,44149
-"22017","Caddo, LA",44851,45384,48413
-"22019","Calcasieu, LA",44604,46162,48968
-"22021","Caldwell, LA",31621,32616,33950
-"22023","Cameron, LA",43152,47476,50280
-"22025","Catahoula, LA",31982,33413,33655
-"22027","Claiborne, LA",32376,33643,35240
-"22029","Concordia, LA",30098,31599,32942
-"22031","De Soto, LA",37155,38585,40584
-"22033","East Baton Rouge, LA",47689,48855,51386
-"22035","East Carroll, LA",34313,36315,36010
-"22037","East Feliciana, LA",39815,40843,42771
-"22039","Evangeline, LA",31600,32634,33671
-"22041","Franklin, LA",30010,31196,31928
-"22043","Grant, LA",30778,30862,31828
-"22045","Iberia, LA",36278,37119,39270
-"22047","Iberville, LA",37808,39569,41423
-"22049","Jackson, LA",31762,32933,34116
-"22051","Jefferson, LA",47629,48520,51005
-"22053","Jefferson Davis, LA",38091,39905,42334
-"22055","Lafayette, LA",45411,47467,50273
-"22057","Lafourche, LA",43008,44136,47096
-"22059","LaSalle, LA",29531,30283,32413
-"22061","Lincoln, LA",37007,38492,40410
-"22063","Livingston, LA",37428,39068,40658
-"22065","Madison, LA",31480,31210,32437
-"22067","Morehouse, LA",37453,37648,38495
-"22069","Natchitoches, LA",36008,37985,39860
-"22071","Orleans, LA",48148,49436,52004
-"22073","Ouachita, LA",38535,39135,41053
-"22075","Plaquemines, LA",47055,47225,49376
-"22077","Pointe Coupee, LA",41105,42976,44366
-"22079","Rapides, LA",43396,44128,46090
-"22081","Red River, LA",34926,38966,42201
-"22083","Richland, LA",35630,35988,37330
-"22085","Sabine, LA",31544,33001,34558
-"22087","St. Bernard, LA",30406,30974,32130
-"22089","St. Charles, LA",46139,47247,49353
-"22091","St. Helena, LA",40490,39875,41592
-"22093","St. James, LA",43065,46155,48484
-"22095","St. John the Baptist, LA",38078,38830,40573
-"22097","St. Landry, LA",38789,39179,41191
-"22099","St. Martin, LA",35923,35705,37645
-"22101","St. Mary, LA",36485,37142,39280
-"22103","St. Tammany, LA",55434,58848,62366
-"22105","Tangipahoa, LA",36690,37474,38974
-"22107","Tensas, LA",34363,36060,36630
-"22109","Terrebonne, LA",39210,39379,41504
-"22111","Union, LA",35754,37117,38794
-"22113","Vermilion, LA",36304,36943,39042
-"22115","Vernon, LA",37530,38756,40729
-"22117","Washington, LA",31647,32210,33480
-"22119","Webster, LA",36733,38000,40175
-"22121","West Baton Rouge, LA",44986,45169,46976
-"22123","West Carroll, LA",33516,34625,36633
-"22125","West Feliciana, LA",36414,37266,38655
-"22127","Winn, LA",33688,35068,36698
-"Legend / Footnotes:"
-"2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2018 reflect county population estimates available as of March 2019."
-"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget bulletin no. 18-04 issued September 14, 2018."
-"Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
-"Last updated: November 14, 2019-- new statistics for 2018; revised statistics for 1969-2017."
+County,2016,2017,2018
+"Acadia, LA",34236,35481,37304
+"Allen, LA",30513,31754,33381
+"Ascension, LA",46685,47798,49829
+"Assumption, LA",40358,43897,46788
+"Avoyelles, LA",35099,36529,37911
+"Beauregard, LA",39451,41126,42782
+"Bienville, LA",33422,35759,38493
+"Bossier, LA",41722,41876,44149
+"Caddo, LA",44851,45384,48413
+"Calcasieu, LA",44604,46162,48968
+"Caldwell, LA",31621,32616,33950
+"Cameron, LA",43152,47476,50280
+"Catahoula, LA",31982,33413,33655
+"Claiborne, LA",32376,33643,35240
+"Concordia, LA",30098,31599,32942
+"De Soto, LA",37155,38585,40584
+"East Baton Rouge, LA",47689,48855,51386
+"East Carroll, LA",34313,36315,36010
+"East Feliciana, LA",39815,40843,42771
+"Evangeline, LA",31600,32634,33671
+"Franklin, LA",30010,31196,31928
+"Grant, LA",30778,30862,31828
+"Iberia, LA",36278,37119,39270
+"Iberville, LA",37808,39569,41423
+"Jackson, LA",31762,32933,34116
+"Jefferson, LA",47629,48520,51005
+"Jefferson Davis, LA",38091,39905,42334
+"Lafayette, LA",45411,47467,50273
+"Lafourche, LA",43008,44136,47096
+"LaSalle, LA",29531,30283,32413
+"Lincoln, LA",37007,38492,40410
+"Livingston, LA",37428,39068,40658
+"Madison, LA",31480,31210,32437
+"Morehouse, LA",37453,37648,38495
+"Natchitoches, LA",36008,37985,39860
+"Orleans, LA",48148,49436,52004
+"Ouachita, LA",38535,39135,41053
+"Plaquemines, LA",47055,47225,49376
+"Pointe Coupee, LA",41105,42976,44366
+"Rapides, LA",43396,44128,46090
+"Red River, LA",34926,38966,42201
+"Richland, LA",35630,35988,37330
+"Sabine, LA",31544,33001,34558
+"St. Bernard, LA",30406,30974,32130
+"St. Charles, LA",46139,47247,49353
+"St. Helena, LA",40490,39875,41592
+"St. James, LA",43065,46155,48484
+"St. John the Baptist, LA",38078,38830,40573
+"St. Landry, LA",38789,39179,41191
+"St. Martin, LA",35923,35705,37645
+"St. Mary, LA",36485,37142,39280
+"St. Tammany, LA",55434,58848,62366
+"Tangipahoa, LA",36690,37474,38974
+"Tensas, LA",34363,36060,36630
+"Terrebonne, LA",39210,39379,41504
+"Union, LA",35754,37117,38794
+"Vermilion, LA",36304,36943,39042
+"Vernon, LA",37530,38756,40729
+"Washington, LA",31647,32210,33480
+"Webster, LA",36733,38000,40175
+"West Baton Rouge, LA",44986,45169,46976
+"West Carroll, LA",33516,34625,36633
+"West Feliciana, LA",36414,37266,38655
+"Winn, LA",33688,35068,36698
