@@ -1,0 +1,344 @@
+,City,County,District Name,Number of High Schools,Number of Middle Schools,Number of Alternative Schools,Number of Primary Schools,Number of Total Schools,State,Rank,RankOf,RankStatewidePercentage,Year,Zip Code
+0,Baxley,Appling,Appling County,1,1,0,4,6,GA,88,196,55.1,2019,31513
+1,Pearson,Atkinson,Atkinson County,1,1,0,2,4,GA,75,196,61.73,2019,31642
+2,Atlanta,Fulton,Atlanta Public Schools,16,15,2,56,89,GA,136,196,30.61,2019,30335
+3,Alma,Bacon,Bacon County,1,1,0,2,4,GA,85,196,56.63,2019,31510
+4,Newton,Baker,Baker County,0,0,1,0,1,GA,,,,,31770
+5,Milledgeville,Baldwin,Baldwin County,1,1,0,4,6,GA,186,196,5.1,2019,31061
+6,Homer,Banks,Banks County,1,1,0,2,4,GA,40,196,79.59,2019,30547
+7,Winder,Barrow,Barrow County,2,4,0,9,15,GA,61,196,68.88,2019,30680
+8,Cartersville,Bartow,Bartow County,3,4,0,12,19,GA,83,196,57.65,2019,30120
+9,Fitzgerald,Ben Hill,Ben Hill County,1,1,0,2,4,GA,176,196,10.2,2019,31750
+10,Nashville,Berrien,Berrien County,2,1,0,2,5,GA,41,196,79.08,2019,31639
+11,Macon,Bibb,Bibb County,6,7,1,22,36,GA,162,196,17.35,2019,31201
+12,Cochran,Bleckley,Bleckley County,2,1,0,2,5,GA,16,196,91.84,2019,31014
+13,Nahunta,Brantley,Brantley County,1,3,0,3,7,GA,29,187,84.49,2018,31553
+14,Bremen,Haralson,Bremen City,1,1,0,2,4,GA,3,196,98.47,2019,30110
+15,Quitman,Brooks,Brooks County,2,1,0,3,6,GA,178,196,9.18,2019,31643
+16,Pembroke,Bryan,Bryan County,2,2,0,6,10,GA,48,196,75.51,2019,31321
+17,Buford,Gwinnett,Buford City,1,1,0,2,4,GA,2,196,98.98,2019,30518
+18,Statesboro,Bulloch,Bulloch County,3,3,0,9,15,GA,79,196,59.69,2019,30458
+19,Waynesboro,Burke,Burke County,1,1,0,3,5,GA,157,196,19.9,2019,30830
+20,Jackson,Butts,Butts County,1,1,0,3,5,GA,144,196,26.53,2019,30233
+21,Calhoun,Gordon,Calhoun City,1,1,0,1,3,GA,96,196,51.02,2019,30701
+22,Morgan,Calhoun,Calhoun County,1,1,0,1,3,GA,190,196,3.06,2019,39866
+23,Kingsland,Camden,Camden County,1,2,0,9,12,GA,13,196,93.37,2019,31548
+24,Metter,Candler,Candler County,1,1,0,1,3,GA,120,196,38.78,2019,30439
+25,Carrollton,Carroll,Carroll County,6,6,0,12,24,GA,35,196,82.14,2019,30116
+26,Carrollton,Carroll,Carrollton City,1,2,0,1,4,GA,63,196,67.86,2019,30117
+27,Cartersville,Bartow,Cartersville City,1,1,0,2,4,GA,33,196,83.16,2019,30120
+28,Ringgold,Catoosa,Catoosa County,3,3,0,10,16,GA,54,196,72.45,2019,30736
+29,Folkston,Charlton,Charlton County,1,1,0,2,4,GA,86,196,56.12,2019,31537
+30,Cusseta,Chattahoochee,Chattahoochee County,1,1,0,1,3,GA,82,196,58.16,2019,31805
+31,Summerville,Chattooga,Chattooga County,1,1,1,3,6,GA,112,196,42.86,2019,30747
+32,Canton,Cherokee,Cherokee County,6,7,0,23,36,GA,23,196,88.27,2019,30114
+33,Chickamauga,Walker,Chickamauga City,1,1,0,1,3,GA,9,196,95.41,2019,30707
+34,Decatur,DeKalb,City Schools of Decatur,1,1,0,6,8,GA,,,,,30030
+35,Athens,Clarke,Clarke County,3,4,0,14,21,GA,146,196,25.51,2019,30606
+36,Fort Gaines,Clay,Clay County,0,1,0,1,2,GA,189,196,3.57,2019,31751
+37,Jonesboro,Clayton,Clayton County,12,15,0,38,65,GA,168,196,14.29,2019,30236
+38,Homerville,Clinch,Clinch County,1,1,0,1,3,GA,154,196,21.43,2019,31634
+39,Lenox,Cook,Coastal Plains Regional Educational Service Agency,0,0,0,0,0,GA,,,,,31637
+40,Marietta,Cobb,Cobb County,17,26,0,68,111,GA,44,196,77.55,2019,30061
+41,Douglas,Coffee,Coffee County,2,1,1,8,12,GA,90,196,54.08,2019,31533
+42,Moultrie,Colquitt,Colquitt County,2,1,1,10,14,GA,151,196,22.96,2019,31768
+43,Evans,Columbia,Columbia County,5,8,0,18,31,GA,22,196,88.78,2019,30809
+44,Commerce,Jackson,Commerce City,1,1,0,2,4,GA,20,196,89.8,2019,30529
+45,Atlanta,Fulton,Commission Charter Schools- Atlanta Heights Charter School,0,0,0,1,1,GA,188,196,4.08,2019,30331
+46,Norcross,Gwinnett,Commission Charter Schools- Brookhaven Innovation Academy,0,0,0,1,1,GA,42,196,78.57,2019,30071
+47,Statesboro,Bulloch,Commission Charter Schools- CCAT School,1,0,0,0,1,GA,60,196,69.39,2019,30458
+48,Macon,Bibb,Commission Charter Schools- Cirrus Charter Academy,0,0,0,1,1,GA,195,196,0.51,2019,31204
+49,Senoia,Coweta,Commission Charter Schools- Coweta Charter Academy,0,0,0,1,1,GA,12,196,93.88,2019,30276
+50,Mobile,Mobile,Acceleration Day and Evening Academy,1,0,0,0,1,AL,123,130,5.38,2019,36606
+51,Birmingham,Jefferson,Alabama Clinical Schools,0,0,0,0,0,AL,,,,,35210
+52,Talladega,Talladega,Alabama Inst Deaf And Blind,1,0,3,0,4,AL,,,,,35160
+53,Alabaster,Shelby,Alabaster City,1,2,0,3,6,AL,15,130,88.46,2019,35007
+54,Albertville,Marshall,Albertville City,1,2,0,3,6,AL,58,130,55.38,2019,35950
+55,Alexander City,Tallapoosa,Alexander City,1,2,0,2,5,AL,66,130,49.23,2019,35010
+56,Andalusia,Covington,Andalusia City,1,1,0,1,3,AL,34,130,73.85,2019,36421
+57,Anniston,Calhoun,Anniston City,2,1,0,4,7,AL,115,130,11.54,2019,36206
+58,Arab,Marshall,Arab City,1,1,0,2,4,AL,5,130,96.15,2019,35016
+59,Athens,Limestone,Athens City,1,1,2,5,9,AL,27,129,79.07,2018,35611
+60,Attalla,Etowah,Attalla City,1,1,0,1,3,AL,79,130,39.23,2019,35954
+61,Auburn,Lee,Auburn City,1,2,1,9,13,AL,7,130,94.62,2019,36830
+62,Prattville,Autauga,Autauga County,4,3,3,5,15,AL,51,130,60.77,2019,36067
+63,Bay Minette,Baldwin,Baldwin County,10,10,1,23,44,AL,23,130,82.31,2019,36507
+64,Clayton,Barbour,Barbour County,1,0,0,2,3,AL,130,130,0.0,2019,36016
+65,Mobile,Mobile,BayPointe Residential Services,0,0,0,0,0,AL,,,,,36693
+66,Bessemer,Jefferson,Bessemer City,3,1,0,5,9,AL,120,130,7.69,2019,35020
+67,Centreville,Bibb,Bibb County,3,2,0,4,9,AL,86,130,33.85,2019,35042
+68,Birmingham,Jefferson,Birmingham City,11,9,1,31,52,AL,117,130,10.0,2019,35203
+69,Oneonta,Blount,Blount County,6,1,4,6,17,AL,55,130,57.69,2019,35121
+70,Boaz,Marshall,Boaz City,1,1,0,3,5,AL,84,130,35.38,2019,35957
+71,Green Pond,Bibb,Boyd School,0,0,0,0,0,AL,,,,,35074
+72,Montgomery,Montgomery,Brantwood Childrens Home,0,0,0,0,0,AL,,,,,36104
+73,Tuscaloosa,Tuscaloosa,BrewerPorch Childrens Center,0,0,0,0,0,AL,,,,,35404
+74,Brewton,Escambia,Brewton City,1,1,0,1,3,AL,13,130,90.0,2019,36426
+75,Tuscaloosa,Tuscaloosa,Bryce Adolescent School,1,0,0,0,1,AL,,,,,35401
+76,Union Springs,Bullock,Bullock County,2,1,0,1,4,AL,125,130,3.85,2019,36089
+77,Greenville,Butler,Butler County,2,1,2,2,7,AL,109,130,16.15,2019,36037
+78,Anniston,Calhoun,Calhoun County,8,3,1,7,19,AL,46,130,64.62,2019,36206
+79,Lafayette,Chambers,Chambers County,3,2,0,6,11,AL,101,130,22.31,2019,36862
+80,Centre,Cherokee,Cherokee County,2,1,4,1,8,AL,71,130,45.38,2019,35960
+81,Chickasaw,Mobile,Chickasaw City,1,1,0,1,3,AL,124,130,4.62,2019,36611
+82,Clanton,Chilton,Chilton County,4,3,4,3,14,AL,100,130,23.08,2019,35045
+83,Butler,Choctaw,Choctaw County,2,0,0,2,4,AL,116,130,10.77,2019,36904
+84,Grove Hill,Clarke,Clarke County,2,2,0,3,7,AL,95,130,26.92,2019,36451
+85,Ashland,Clay,Clay County,1,1,0,2,4,AL,87,130,33.08,2019,36251
+86,Heflin,Cleburne,Cleburne County,4,1,0,4,9,AL,33,130,74.62,2019,36264
+87,Elba,Coffee,Coffee County,1,0,2,1,4,AL,40,130,69.23,2019,36323
+88,Tuscumbia,Colbert,Colbert County,3,0,0,5,8,AL,93,130,28.46,2019,35674
+89,Flomaton,Escambia,Compass School,0,0,0,0,0,AL,,,,,36441
+90,Evergreen,Conecuh,Conecuh County,2,1,1,4,8,AL,103,130,20.77,2019,36401
+91,Rockford,Coosa,Coosa County,2,0,0,1,3,AL,108,130,16.92,2019,35136
+92,Andalusia,Covington,Covington County,3,1,1,4,9,AL,47,130,63.85,2019,36421
+93,Luverne,Crenshaw,Crenshaw County,1,0,3,0,4,AL,,,,,36049
+94,Cullman,Cullman,Cullman City,2,1,1,3,7,AL,8,130,93.85,2019,35055
+95,Cullman,Cullman,Cullman County,9,6,1,12,28,AL,36,130,72.31,2019,35055
+96,Ozark,Dale,Dale County,2,1,1,3,7,AL,22,130,83.08,2019,36360
+97,Daleville,Dale,Daleville City,1,0,0,1,2,AL,111,130,14.62,2019,36322
+98,Selma,Dallas,Dallas County,4,2,0,6,12,AL,113,130,13.08,2019,36701
+99,Decatur,Morgan,Decatur City,4,2,2,12,20,AL,67,130,48.46,2019,35601
+100,Aberdeen,Monroe,Aberdeen School District,1,1,0,1,3,MS,98,129,24.03,2019,39730
+101,Corinth,Alcorn,Alcorn School District,5,2,0,3,10,MS,31,129,75.97,2019,38834
+102,Liberty,Amite,Amite County School District,2,0,0,1,3,MS,120,129,6.98,2019,39645
+103,Amory,Monroe,Amory School District,2,1,0,2,5,MS,9,129,93.02,2019,38821
+104,Kosciusko,Attala,Attala County School District,3,0,0,2,5,MS,85,129,34.11,2019,39090
+105,Baldwyn,Lee,Baldwyn School District,2,0,0,1,3,MS,38,129,70.54,2019,38824
+106,Bay Saint Louis,Hancock,Bay St Louis Waveland School District,1,1,0,2,4,MS,29,129,77.52,2019,39520
+107,Ashland,Benton,Benton County School District,2,0,1,1,4,MS,63,129,51.16,2019,38603
+108,Biloxi,Harrison,Biloxi Public School District,2,2,1,5,10,MS,7,129,94.57,2019,39530
+109,Booneville,Prentiss,Booneville School District,2,1,0,1,4,MS,4,129,96.9,2019,38829
+110,Brookhaven,Lincoln,Brookhaven School District,2,2,1,2,7,MS,67,129,48.06,2019,39601
+111,Pittsboro,Calhoun,Calhoun County School District,4,2,0,3,9,MS,56,129,56.59,2019,38951
+112,Canton,Madison,Canton Public School District,2,2,2,4,10,MS,108,129,16.28,2019,39046
+113,Carrollton,Carroll,Carroll County School District,1,0,0,1,2,MS,101,129,21.71,2019,38917
+114,Houlka,Chickasaw,Chickasaw County School District,0,0,1,0,1,MS,,,,,38850
+115,Ackerman,Choctaw,Choctaw County School District,2,0,0,3,5,MS,42,129,67.44,2019,39735
+116,Port Gibson,Claiborne,Claiborne County School District,2,2,0,1,5,MS,116,134,13.43,2018,39150
+117,Clarksdale,Coahoma,Clarksdale Collegiate District,0,0,0,1,1,MS,,,,,38614
+118,Clarksdale,Coahoma,Clarksdale Municipal School District,2,2,1,4,9,MS,119,129,7.75,2019,38614
+119,Cleveland,Bolivar,Cleveland School District,2,1,0,6,9,MS,92,129,28.68,2019,38732
+120,Clinton,Hinds,Clinton Public School District,2,2,2,3,9,MS,,,,,39056
+121,Clarksdale,Coahoma,Coahoma County School District,1,0,0,4,5,MS,110,129,14.73,2019,38614
+122,Clarksdale,Coahoma,Coahoma Early College,1,0,0,0,1,MS,126,129,2.33,2019,38614
+123,Coffeeville,Yalobusha,Coffeeville School District,1,0,0,1,2,MS,93,129,27.91,2019,38922
+124,Columbia,Marion,Columbia School District,1,1,0,2,4,MS,49,129,62.02,2019,39429
+125,Columbus,Lowndes,Columbus Municipal School District,2,1,1,5,9,MS,114,129,11.63,2019,39705
+126,Hazlehurst,Copiah,Copiah County School District,1,1,1,1,4,MS,79,129,38.76,2019,39083
+127,Corinth,Alcorn,Corinth School District,1,1,0,1,3,MS,61,129,52.71,2019,38834
+128,Collins,Covington,Covington County School District,3,2,2,3,10,MS,89,129,31.01,2019,39428
+129,Hernando,DeSoto,Desoto County School District,10,8,1,22,41,MS,22,129,82.95,2019,38632
+130,Heidelberg,Jasper,East Jasper Consolidated School District,1,1,0,1,3,MS,69,129,46.51,2019,39439
+131,Charleston,Tallahatchie,East Tallahatchie Consol School District,2,1,0,1,4,MS,104,129,19.38,2019,38921
+132,Ellisville,Jones,Ellisville State School Adm,0,0,0,0,0,MS,,,,,39437
+133,Enterprise,Clarke,Enterprise School District,1,1,0,1,3,MS,3,129,97.67,2019,39330
+134,Forest,Scott,Forest Municipal School District,1,1,0,1,3,MS,71,129,44.96,2019,39074
+135,Brooklyn,Forrest,Forrest County Ag High School,1,0,0,0,1,MS,70,129,45.74,2019,39425
+136,Hattiesburg,Forrest,Forrest County School District,1,0,0,5,6,MS,52,129,59.69,2019,39403
+137,Meadville,Franklin,Franklin County School District,2,2,0,1,5,MS,43,134,67.91,2018,39653
+138,Lucedale,George,George County School District,2,2,0,5,9,MS,60,129,53.49,2019,39452
+139,Leakesville,Greene,Greene County School District,2,1,0,3,6,MS,48,129,62.79,2019,39451
+140,Greenville,Washington,Greenville Public Schools,2,2,0,8,12,MS,109,129,15.5,2019,38701
+141,Greenwood,Leflore,Greenwood Public School District,2,1,0,4,7,MS,99,129,23.26,2019,38935
+142,Grenada,Grenada,Grenada School District,3,1,0,1,5,MS,11,129,91.47,2019,38901
+143,Gulfport,Harrison,Gulfport School District,2,2,1,7,12,MS,40,129,68.99,2019,39501
+144,Kiln,Hancock,Hancock County School District,2,1,0,4,7,MS,15,129,88.37,2019,39556
+145,Gulfport,Harrison,Harrison County School District,5,3,0,13,21,MS,18,129,86.05,2019,39503
+146,Hattiesburg,Forrest,Hattiesburg Public School District,1,2,1,5,9,MS,76,129,41.09,2019,39401
+147,Hazlehurst,Copiah,Hazlehurst City School District,1,1,0,1,3,MS,116,129,10.08,2019,39083
+148,Raymond,Hinds,Hinds County School District,3,2,1,5,11,MS,62,129,51.94,2019,39154
+149,Abbeville,Abbeville,Abbeville 60,3,1,0,5,9,SC,6,82,92.68,2019,29620
+150,Aiken,Aiken,Aiken 01,10,12,0,21,43,SC,34,82,58.54,2019,29803
+151,Fairfax,Allendale,Allendale 01,1,1,0,2,4,SC,74,82,9.76,2019,29827
+152,Williamston,Anderson,Anderson 01,3,3,0,8,14,SC,3,82,96.34,2019,29697
+153,Honea Path,Anderson,Anderson 02,1,2,0,4,7,SC,19,82,76.83,2019,29654
+154,Iva,Anderson,Anderson 03,1,1,0,3,5,SC,7,82,91.46,2019,29655
+155,Pendleton,Anderson,Anderson 04,1,1,0,4,6,SC,4,82,95.12,2019,29670
+156,Anderson,Anderson,Anderson 05,4,4,0,13,21,SC,22,82,73.17,2019,29625
+157,Williamston,Anderson,Anderson 80,1,0,0,0,1,SC,,,,,29697
+158,Bamberg,Bamberg,Bamberg 01,1,1,0,1,3,SC,32,82,60.98,2019,29003
+159,Denmark,Bamberg,Bamberg 02,1,1,0,1,3,SC,76,82,7.32,2019,29042
+160,Blackville,Barnwell,Barnwell 19,1,0,0,1,2,SC,64,82,21.95,2019,29817
+161,Williston,Barnwell,Barnwell 29,1,1,0,1,3,SC,68,82,17.07,2019,29853
+162,Barnwell,Barnwell,Barnwell 45,1,2,0,1,4,SC,58,82,29.27,2019,29812
+163,Blackville,Barnwell,Barnwell 80,1,0,0,0,1,SC,,,,,29817
+164,Beaufort,Beaufort,Beaufort 01,8,5,0,20,33,SC,23,82,71.95,2019,29902
+165,Ridgeland,Jasper,Beaufort 80,1,0,0,0,1,SC,,,,,29936
+166,Moncks Corner,Berkeley,Berkeley 01,8,11,1,26,46,SC,28,82,65.85,2019,29461
+167,Saint Matthews,Calhoun,Calhoun 01,1,0,0,2,3,SC,50,82,39.02,2019,29135
+168,Charleston,Charleston,Charleston 01,15,12,1,54,82,SC,38,82,53.66,2019,29401
+169,Columbia,Richland,Charter Institute at Erskine,5,0,4,4,13,SC,43,82,47.56,2019,29201
+170,Gaffney,Cherokee,Cherokee 01,3,4,0,12,19,SC,51,82,37.8,2019,29341
+171,Chester,Chester,Chester 01,4,2,0,6,12,SC,62,82,24.39,2019,29706
+172,Chesterfield,Chesterfield,Chesterfield 01,4,3,0,9,16,SC,41,82,50.0,2019,29709
+173,Summerton,Clarendon,Clarendon 01,1,1,0,2,4,SC,71,82,13.41,2019,29148
+174,Manning,Clarendon,Clarendon 02,2,2,0,2,6,SC,69,82,15.85,2018,29102
+175,Turbeville,Clarendon,Clarendon 03,1,0,0,1,2,SC,18,82,78.05,2019,29162
+176,Manning,Clarendon,Clarendon 80,1,0,0,0,1,SC,,,,,29102
+177,Walterboro,Colleton,Colleton 01,2,1,0,6,9,SC,75,82,8.54,2019,29488
+178,Darlington,Darlington,Darlington 01,5,3,0,14,22,SC,39,82,52.44,2019,29532
+179,Spartanburg,Spartanburg,Deaf & Blind School,2,0,1,2,5,SC,,,,,29302
+180,Columbia,Richland,Dept Of Correction N04,0,0,9,0,9,SC,,,,,29210
+181,Columbia,Lexington,Dept of Juvenile Justice,3,0,0,0,3,SC,,,,,29210
+182,Latta,Dillon,Dillon 03,1,1,0,1,3,SC,27,82,67.07,2019,29565
+183,Dillon,Dillon,Dillon 04,2,1,0,5,8,SC,63,82,23.17,2019,29536
+184,Dillon,Dillon,Dillon 80,1,0,0,0,1,SC,,,,,29536
+185,Summerville,Dorchester,Dorchester 02,3,6,0,15,24,SC,10,82,87.8,2019,29483
+186,Saint George,Dorchester,Dorchester 04,1,2,0,3,6,SC,47,82,42.68,2019,29477
+187,Dorchester,Dorchester,Dorchester 80,1,0,0,0,1,SC,,,,,29437
+188,Johnston,Edgefield,Edgefield 01,2,2,0,4,8,SC,46,82,43.9,2019,29832
+189,Winnsboro,Fairfield,Fairfield 01,2,1,0,5,8,SC,44,82,46.34,2019,29180
+190,Florence,Florence,Florence 01,4,4,0,16,24,SC,37,82,54.88,2019,29506
+191,Pamplico,Florence,Florence 02,1,0,0,1,2,SC,57,82,30.49,2019,29583
+192,Lake City,Florence,Florence 03,1,2,0,5,8,SC,66,82,19.51,2019,29560
+193,Timmonsville,Florence,Florence 04,1,1,0,1,3,SC,82,82,0.0,2019,29161
+194,Johnsonville,Florence,Florence 05,1,1,0,1,3,SC,26,82,68.29,2019,29555
+195,Georgetown,Georgetown,Georgetown 01,4,5,0,10,19,SC,45,82,45.12,2019,29440
+196,Hartsville,Darlington,Governor' School for Science and Mathematics,1,0,0,0,1,SC,,,,,29550
+197,Greenville,Greenville,Governor's School for the Arts and Humanities,1,0,0,0,1,SC,,,,,29601
+198,Greenville,Greenville,Greenville 01,18,20,1,52,91,SC,13,82,84.15,2019,29601
+199,Gainesville,Alachua,Alachua,15,10,6,33,64,FL,40,67,40.3,2019,32601
+200,MacClenny,Baker,Baker,2,1,0,6,9,FL,,,,,32063
+201,Panama City,Bay,Bay,13,8,6,26,53,FL,37,67,44.78,2019,32401
+202,Starke,Bradford,Bradford,3,1,0,8,12,FL,58,67,13.43,2019,32091
+203,Viera,Brevard,Brevard,24,12,7,70,113,FL,18,67,73.13,2019,32940
+204,Fort Lauderdale,Broward,Broward,63,48,15,202,328,FL,34,67,49.25,2019,33301
+205,Blountstown,Calhoun,Calhoun,1,1,5,2,9,FL,11,67,83.58,2019,32424
+206,Port Charlotte,Charlotte,Charlotte,8,4,2,12,26,FL,25,67,62.69,2019,33948
+207,Inverness,Citrus,Citrus,7,5,2,11,25,FL,24,67,64.18,2019,34450
+208,Green Cove Springs,Clay,Clay,11,6,7,28,52,FL,12,67,82.09,2019,32043
+209,Naples,Collier,Collier,18,13,6,33,70,FL,21,67,68.66,2019,34109
+210,Lake City,Columbia,Columbia,6,2,3,10,21,FL,16,67,76.12,2019,32055
+211,St Augustine,St. Johns,Deaf/Blind,2,1,0,2,5,FL,65,67,2.99,2019,32084
+212,Arcadia,DeSoto,Desoto,1,1,5,4,11,FL,67,67,0.0,2019,34266
+213,Cross City,Dixie,Dixie,3,1,2,4,10,FL,27,67,59.7,2019,32628
+214,Jacksonville,Duval,Duval,42,29,7,127,205,FL,52,67,22.39,2019,32207
+215,Pensacola,Escambia,Escambia,15,10,8,38,71,FL,53,67,20.9,2019,32505
+216,Tallahassee,Leon,Famu Lab School,0,0,2,0,2,FL,,,,,32307
+217,Boca Raton,Palm Beach,Fau Lab School,0,0,1,1,2,FL,2,67,97.01,2019,33431
+218,Orlando,Orange,Fl Virtual,2,2,0,2,6,FL,,,,,32835
+219,Bunnell,Flagler,Flagler,4,2,0,9,15,FL,14,67,79.1,2019,32110
+220,Eastpoint,Franklin,Franklin,1,0,2,1,4,FL,63,67,5.97,2019,32328
+221,Tallahassee,Leon,Fsu Lab School,0,0,2,1,3,FL,1,67,98.51,2019,32311
+222,Quincy,Gadsden,Gadsden,3,2,5,8,18,FL,60,67,10.45,2019,32351
+223,Trenton,Gilchrist,Gilchrist,3,0,2,3,8,FL,5,67,92.54,2019,32693
+224,Moore Haven,Glades,Glades,2,1,1,6,10,FL,55,67,17.91,2019,33471
+225,Port Saint Joe,Gulf,Gulf,3,0,0,3,6,FL,47,67,29.85,2019,32456
+226,Jasper,Hamilton,Hamilton,3,0,2,2,7,FL,,,,,32052
+227,Wauchula,Hardee,Hardee,5,0,0,6,11,FL,33,67,50.75,2019,33873
+228,Labelle,Hendry,Hendry,4,2,3,8,17,FL,61,67,8.96,2019,33935
+229,Brooksville,Hernando,Hernando,10,6,4,13,33,FL,32,67,52.24,2019,34601
+230,Sebring,Highlands,Highlands,6,3,4,11,24,FL,54,67,19.4,2019,33870
+231,Tampa,Hillsborough,Hillsborough,48,47,22,180,297,FL,48,67,28.36,2019,33602
+232,Bonifay,Holmes,Holmes,3,0,4,3,10,FL,50,67,25.37,2019,32425
+233,Vero Beach,Indian River,Indian River,5,5,2,17,29,FL,22,67,67.16,2019,32967
+234,Marianna,Jackson,Jackson,6,2,7,7,22,FL,39,67,41.79,2019,32446
+235,Monticello,Jefferson,Jefferson,2,1,2,1,6,FL,66,67,1.49,2019,32344
+236,Mayo,Lafayette,Lafayette,3,0,1,2,6,FL,6,66,90.91,2018,32066
+237,Tavares,Lake,Lake,13,10,8,29,60,FL,28,67,58.21,2019,32778
+238,Fort Myers,Lee,Lee,36,19,4,62,121,FL,38,67,43.28,2019,33966
+239,Tallahassee,Leon,Leon,13,8,6,30,57,FL,35,67,47.76,2019,32304
+240,Bronson,Levy,Levy,4,1,4,6,15,FL,51,67,23.88,2019,32621
+241,Bristol,Liberty,Liberty,3,0,2,3,8,FL,15,67,77.61,2019,32321
+242,Madison,Madison,Madison,4,0,4,6,14,FL,46,67,31.34,2019,32340
+243,Bradenton,Manatee,Manatee,15,12,8,43,78,FL,41,67,38.81,2019,34205
+244,Ocala,Marion,Marion,17,10,3,36,66,FL,62,67,7.46,2019,34471
+245,Stuart,Martin,Martin,9,5,3,17,34,FL,30,67,55.22,2019,34994
+246,Miami,Miami-Dade,Miami-Dade,121,77,23,289,510,FL,23,67,65.67,2019,33132
+247,Key West,Monroe,Monroe,10,0,1,13,24,FL,9,67,86.57,2019,33040
+248,Fernandina Beach,Nassau,Nassau,5,3,3,9,20,FL,3,67,95.52,2019,32034
+249,Nashville,Davidson,Achievement School District,5,9,0,16,30,TN,140,140,0.0,2019,37243
+250,Alamo,Crockett,Alamo,0,0,0,1,1,TN,10,140,92.86,2019,38001
+251,Alcoa,Blount,Alcoa,1,1,0,2,4,TN,31,140,77.86,2019,37701
+252,Jamestown,Fentress,Alvin C York Institute,1,0,0,0,1,TN,48,140,65.71,2019,38556
+253,Clinton,Anderson,Anderson County,3,5,0,10,18,TN,92,140,34.29,2019,37716
+254,Arlington,Shelby,Arlington,1,1,0,2,4,TN,6,140,95.71,2019,38002
+255,Athens,McMinn,Athens,0,1,0,4,5,TN,15,140,89.29,2019,37303
+256,Bartlett,Shelby,Bartlett,1,3,0,6,10,TN,9,140,93.57,2019,38134
+257,Shelbyville,Bedford,Bedford County,3,3,0,8,14,TN,124,140,11.43,2019,37160
+258,Bells,Crockett,Bells,0,0,0,1,1,TN,21,140,85.0,2019,38006
+259,Camden,Benton,Benton County,3,1,1,3,8,TN,79,140,43.57,2019,38320
+260,Pikeville,Bledsoe,Bledsoe County,1,1,0,3,5,TN,108,140,22.86,2019,37367
+261,Maryville,Blount,Blount County,2,2,2,16,22,TN,78,140,44.29,2019,37803
+262,Bradford,Gibson,Bradford,1,0,0,1,2,TN,13,140,90.71,2019,38316
+263,Cleveland,Bradley,Bradley County,4,2,0,11,17,TN,53,140,62.14,2019,37311
+264,Bristol,Sullivan,Bristol,2,1,0,5,8,TN,23,140,83.57,2019,37620
+265,Jacksboro,Campbell,Campbell County,5,2,1,7,15,TN,129,140,7.86,2019,37757
+266,Woodbury,Cannon,Cannon County,1,0,0,6,7,TN,112,140,20.0,2019,37190
+267,Huntingdon,Carroll,Carroll County,1,0,1,0,2,TN,,,,,38344
+268,Elizabethton,Carter,Carter County,5,1,1,8,15,TN,90,140,35.71,2019,37643
+269,Ashland City,Cheatham,Cheatham County,3,3,1,6,13,TN,74,140,47.14,2019,37015
+270,Henderson,Chester,Chester County,1,1,0,4,6,TN,20,140,85.71,2019,38340
+271,Tazewell,Claiborne,Claiborne County,3,2,0,8,13,TN,102,140,27.14,2019,37879
+272,Celina,Clay,Clay County,2,0,0,2,4,TN,95,140,32.14,2019,38551
+273,Cleveland,Bradley,Cleveland,1,1,0,6,8,TN,96,140,31.43,2019,37312
+274,Clinton,Anderson,Clinton,0,0,0,3,3,TN,43,140,69.29,2019,37716
+275,Newport,Cocke,Cocke County,3,0,2,7,12,TN,88,140,37.14,2019,37821
+276,Manchester,Coffee,Coffee County,2,1,1,6,10,TN,64,140,54.29,2019,37355
+277,Collierville,Shelby,Collierville,1,2,0,6,9,TN,4,140,97.14,2019,38017
+278,Alamo,Crockett,Crockett County,1,1,0,3,5,TN,91,140,35.0,2019,38001
+279,Crossville,Cumberland,Cumberland County,3,0,0,9,12,TN,54,140,61.43,2019,38555
+280,Nashville,Davidson,Davidson County,30,46,4,89,169,TN,126,140,10.0,2019,37204
+281,Dayton,Rhea,Dayton,0,0,0,1,1,TN,28,140,80.0,2019,37321
+282,Decaturville,Decatur,Decatur County,1,1,0,2,4,TN,34,140,75.71,2019,38329
+283,Smithville,DeKalb,DeKalb County,2,1,0,3,6,TN,69,140,50.71,2019,37166
+284,Dickson,Dickson,Dickson County,3,4,1,9,17,TN,29,140,79.29,2019,37055
+285,Dyersburg,Dyer,Dyer County,1,2,0,5,8,TN,14,140,90.0,2019,38024
+286,Dyersburg,Dyer,Dyersburg,1,1,0,2,4,TN,26,140,81.43,2019,38024
+287,Elizabethton,Carter,Elizabethton,1,1,0,3,5,TN,19,140,86.43,2019,37643
+288,Etowah,McMinn,Etowah,0,0,0,1,1,TN,86,140,38.57,2019,37331
+289,Somerville,Fayette,Fayette County Public Schools,1,2,0,4,7,TN,136,140,2.86,2019,38068
+290,Fayetteville,Lincoln,Fayetteville,1,1,0,1,3,TN,122,140,12.86,2019,37334
+291,Jamestown,Fentress,Fentress County,2,0,0,4,6,TN,65,140,53.57,2019,38556
+292,Winchester,Franklin,Franklin County,1,2,1,7,11,TN,119,140,15.0,2019,37398
+293,Franklin,Williamson,Franklin SSD,0,3,0,5,8,TN,7,140,95.0,2019,37064
+294,Germantown,Shelby,Germantown,1,1,0,3,5,TN,2,140,98.57,2019,38138
+295,Dyer,Gibson,Gibson County Sp District,2,1,0,6,9,TN,27,140,80.71,2019,38330
+296,Pulaski,Giles,Giles County,2,2,0,4,8,TN,80,140,42.86,2019,38478
+297,Rutledge,Grainger,Grainger County,3,1,1,4,9,TN,120,140,14.29,2019,37861
+298,Greeneville,Greene,Greene County,4,1,1,12,18,TN,77,140,45.0,2019,37743
+299,Harrisburg,Cabarrus,A.C.E. Academy,0,0,0,1,1,NC,207,242,14.46,2019,28075
+300,Burlington,Alamance,Alamance-Burlington Schools,8,7,1,20,36,NC,162,242,33.06,2019,27217
+301,Taylorsville,Alexander,Alexander County Schools,1,2,1,7,11,NC,68,242,71.9,2019,28681
+302,Sparta,Alleghany,Alleghany County Schools,1,0,0,3,4,NC,77,242,68.18,2019,28675
+303,Fayetteville,Cumberland,Alpha Academy,0,0,1,0,1,NC,,,,,28304
+304,Statesville,Iredell,American Renaissance School,0,0,0,1,1,NC,61,242,74.79,2019,28677
+305,Spring Lake,Harnett,Anderson Creek Academy,0,0,0,1,1,NC,23,242,90.5,2019,28390
+306,Wadesboro,Anson,Anson County Schools,3,1,0,6,10,NC,174,242,28.1,2019,28170
+307,Walkertown,Forsyth,Appalachian State U Academy Middle Fork,0,0,0,1,1,NC,236,242,2.48,2019,27051
+308,Arapahoe,Pamlico,Arapahoe Charter School,0,0,1,0,1,NC,,,,,28510
+309,Charlotte,Mecklenburg,Aristotle Preparatory Academy,0,0,0,1,1,NC,158,242,34.71,2019,28214
+310,Winston Salem,Forsyth,Arts Based School,0,0,0,1,1,NC,34,242,85.95,2019,27101
+311,Swannanoa,Buncombe,ArtSpace Charter,0,0,0,1,1,NC,43,242,82.23,2019,28778
+312,Sanford,Lee,Ascend Leadership Academy: Lee County,0,1,0,0,1,NC,149,242,38.43,2019,27332
+313,Jefferson,Ashe,Ashe County Schools,1,1,1,3,6,NC,45,242,81.4,2019,28640
+314,Asheboro,Randolph,Asheboro City Schools,1,2,0,5,8,NC,146,242,39.67,2019,27203
+315,Asheville,Buncombe,Asheville City Schools,2,2,0,6,10,NC,62,242,74.38,2019,28801
+316,Newland,Avery,Avery County Schools,3,2,1,5,11,NC,76,242,68.6,2019,28657
+317,Williamston,Martin,Bear Grass Charter School,1,0,0,0,1,NC,52,242,78.51,2019,27982
+318,Washington,Beaufort,Beaufort County Schools,5,2,0,7,14,NC,139,242,42.56,2019,27889
+319,Windsor,Bertie,Bertie County Schools,2,1,0,4,7,NC,188,242,22.31,2019,27983
+320,Summerfield,Rockingham,Bethany Community Middle,0,1,0,0,1,NC,56,242,76.86,2019,27358
+321,Roxboro,Person,Bethel Hill Charter,0,0,0,1,1,NC,40,242,83.47,2019,27574
+322,Elizabethtown,Bladen,Bladen County Schools,2,4,1,6,13,NC,190,242,21.49,2019,28337
+323,Charlotte,Mecklenburg,Bradford Preparatory School,0,0,1,0,1,NC,,,,,28262
+324,Pisgah Forest,Transylvania,Brevard Academy,0,0,0,1,1,NC,42,242,82.64,2019,28768
+325,State Road,Wilkes,Bridges Academy,0,0,1,0,1,NC,151,199,24.12,2018,28676
+326,Bolivia,Brunswick,Brunswick County Schools,5,4,0,10,19,NC,111,242,54.13,2019,28422
+327,Asheville,Buncombe,Buncombe County Schools,10,11,0,23,44,NC,90,242,62.81,2019,28806
+328,Morganton,Burke,Burke County Schools,6,5,1,14,26,NC,94,242,61.16,2019,28655
+329,Concord,Cabarrus,Cabarrus Charter Academy,0,0,1,0,1,NC,,,,,28027
+330,Concord,Cabarrus,Cabarrus County Schools,10,8,1,20,39,NC,97,242,59.92,2019,28025
+331,Lenoir,Caldwell,Caldwell County Schools,6,4,0,16,26,NC,108,242,55.37,2019,28645
+332,Camden,Camden,Camden County Schools,2,2,0,1,5,NC,54,199,72.86,2018,27921
+333,Wilmington,New Hanover,Cape Fear Center for Inquiry,0,0,0,1,1,NC,24,242,90.08,2019,28401
+334,Cary,Wake,Cardinal Charter,0,0,0,1,1,NC,32,242,86.78,2019,27513
+335,Concord,Cabarrus,Carolina International School,0,0,1,0,1,NC,,,,,28027
+336,Durham,Durham,Carter Community Charter,0,0,0,1,1,NC,220,242,9.09,2019,27705
+337,Winston Salem,Forsyth,Carter G Woodson School,0,0,1,0,1,NC,,,,,27127
+338,Beaufort,Carteret,Carteret County Public Schools,4,4,1,9,18,NC,38,242,84.3,2019,28516
+339,Raleigh,Wake,Casa Esperanza Montessori,0,0,0,1,1,NC,87,242,64.05,2019,27616
+340,Yanceyville,Caswell,Caswell County Schools,1,1,0,4,6,NC,186,242,23.14,2019,27379
+341,Sylva,Jackson,Catamount School,0,1,0,0,1,NC,151,242,37.6,2019,28779
+342,Newton,Catawba,Catawba County Schools,6,5,1,16,28,NC,80,242,66.94,2019,28658
